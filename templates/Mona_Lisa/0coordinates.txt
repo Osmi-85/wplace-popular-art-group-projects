@@ -1,1 +1,2 @@
-Tl X: 1137, Tl Y: 702, Px X: 49, Px Y: 897
+Location at the map:	https://wplace.live/?lat=48.96850590670215&lng=20.013134434277326&zoom=10.651074089465423
+Template coordinates:	Tl X: 1137, Tl Y: 702, Px X: 49, Px Y: 897
